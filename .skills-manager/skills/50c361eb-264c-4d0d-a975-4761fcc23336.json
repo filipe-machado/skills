@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "50c361eb-264c-4d0d-a975-4761fcc23336",
+  "path": "caveman",
+  "path_key": "caveman",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "juliusbrussee/caveman/caveman",
+    "subpath": "skills/caveman",
+    "branch": null
+  }
+}

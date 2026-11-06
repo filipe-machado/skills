@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b4d1a5d5-a699-413e-af7d-01e18256d004",
+  "path": "code-simplifier",
+  "path_key": "code-simplifier",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "rtk-ai/rtk/code-simplifier",
+    "subpath": ".claude/skills/code-simplifier",
+    "branch": null
+  }
+}

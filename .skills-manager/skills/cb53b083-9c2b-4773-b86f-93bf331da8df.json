@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cb53b083-9c2b-4773-b86f-93bf331da8df",
+  "path": "caveman-compress",
+  "path_key": "caveman-compress",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "juliusbrussee/caveman/caveman-compress",
+    "subpath": "skills/caveman-compress",
+    "branch": null
+  }
+}

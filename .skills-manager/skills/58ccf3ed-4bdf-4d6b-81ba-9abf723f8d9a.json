@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "58ccf3ed-4bdf-4d6b-81ba-9abf723f8d9a",
+  "path": "caveman-review",
+  "path_key": "caveman-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "juliusbrussee/caveman/caveman-review",
+    "subpath": "skills/caveman-review",
+    "branch": null
+  }
+}
