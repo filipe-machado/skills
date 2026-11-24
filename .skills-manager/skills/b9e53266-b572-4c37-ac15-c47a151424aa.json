@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b9e53266-b572-4c37-ac15-c47a151424aa",
+  "path": "untangle-codebase",
+  "path_key": "untangle-codebase",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "caldoai/skills/untangle-codebase",
+    "subpath": "skills/untangle-codebase",
+    "branch": null
+  }
+}
